@@ -1,1 +1,99 @@
-# Algorithmic-Governance-OS
+# Algorithmic Governance OS
+A Theory of Will-less Sovereignty in the Age of AI
+
+## Abstract
+Algorithmic Governance OS is a theoretical framework describing how sovereignty, legitimacy, and political agency transform when decision-making shifts from human intention to computational optimization. Power is exercised not through deliberate political will but through automated processes that modulate attention, visibility, and exception. This repository contains a 24‑chapter manuscript and a set of conceptual modules that outline the operational logic of governance in the age of AI.
+
+## Core Concepts
+
+### Will-less Sovereignty
+Sovereignty migrates from human decision-makers to algorithmic systems whose optimization functions act as a quasi-will. Power is exercised without intention, responsibility, or accountability.
+
+### Quasi-will
+Objective functions (engagement, retention, virality) behave like a non-conscious will, directing social behavior without possessing meaning, narrative, or moral horizon.
+
+### Exception State OS
+The boundaries of political visibility and invisibility are continuously redrawn by fluctuations in attention. Exception becomes an automated process rather than a sovereign decision.
+
+### Algorithmic Chosenness
+Visibility and relevance are determined by compatibility with optimization logic. Populations are amplified, neutralized, or abandoned based on statistical fit rather than merit, identity, or moral value.
+
+### Attention Capitalism
+Attention becomes the primary political resource. The modulation of attention flows constitutes a new form of sovereignty.
+
+## Manuscript Structure (24 Chapters)
+
+1. Attention Capitalism and the Hollowing of Democracy  
+2. Algorithmic Editing of the Information Space  
+3. Simulation of Institutions and the UI-ification of Politics  
+4. Desire Programming and the Replacement of Religion  
+5. Cloud-State Centralization and Platform Sovereignty  
+6. Integrated Supply Chains and Invisible Dependency  
+7. Autonomous Policing and Continuous Surveillance  
+8. Automation of Expertise and the Post-Bureaucratic State  
+9. Personalized Education and the Suppression of Critical Thought  
+10. Ritualized Elections and Data-Driven Governance  
+11. Constitutional Softwarization and Parametric Freedom  
+12. Total Filtering and the Elimination of Dissent  
+13. Infinite Entertainment and Political Paralysis  
+14. Algorithmic Religion and the Rewriting of Meaning  
+15. Closed Networks and Invisible Power  
+16. University as Model-Training Infrastructure  
+17. Automated Judgement and Predictive Law  
+18. Permanent Exception and Automated Exclusion  
+19. Scoring of Opposition and Statistical Criminalization  
+20. Fiscal Automation and Algorithmic State Finance  
+21. Debt as Automated Constraint  
+22. Platform Money and the End of Monetary Sovereignty  
+23. Labor Optimization and the Neutralization of Resistance  
+24. Algorithmic Chosenness and the Emergence of Cloud Governance  
+
+All chapters are located in the `manuscript/` directory.
+
+## Repository Structure
+
+Algorithmic-Governance-OS/
+│
+├── README.md
+│
+├── manuscript/
+│   ├── 00_Introduction.md
+│   ├── 01_Attention_Capitalism.md
+│   ├── 02_Algorithmic_Editing.md
+│   ├── ...
+│   ├── 24_Algorithmic_Chosenness.md
+│   └── Conclusion.md
+│
+├── theory/
+│   ├── Will-less-Sovereignty.md
+│   ├── Exception-State-OS.md
+│   ├── Chosen-People-OS.md
+│   └── Algorithmic-Governance.md
+│
+├── diagrams/
+│   ├── Will-less-Sovereignty.png
+│   ├── Exception-State-OS.png
+│   ├── Chosen-People-OS.png
+│   └── Governance-Flowchart.png
+│
+├── references/
+│   ├── bibliography.bib
+│   └── notes.md
+│
+└── LICENSE
+
+
+## Citation
+A Zenodo DOI will be added once the repository is archived for publication.
+
+## License
+This project is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+## Purpose
+This repository functions as:
+- a research platform for political theory in the age of AI  
+- an open manuscript for academic publication  
+- an operating-system-style specification of algorithmic governance  
+- a public knowledge base for scholars, policymakers, and technologists  
+
+It provides a conceptual toolkit for analyzing how sovereignty, legitimacy, and human agency are reconfigured by computational infrastructures.
