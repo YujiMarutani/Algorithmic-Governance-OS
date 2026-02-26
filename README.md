@@ -4,52 +4,45 @@
 *A Theory of Will-less Sovereignty in the Age of AI*
 ```mermaid
 flowchart TD
-    subgraph L1[Core Logic Layer (Ch.1–8)]
-        A1[1. Algorithmic Governance as OS]
-        A2[2. From Sovereignty to Optimization]
+
+    subgraph L1[Core Logic (Ch1-8)]
+        A1[1. Governance as OS]
+        A2[2. Sovereignty to Optimization]
         A3[3. Automation of Decision]
-        A4[4. Architecture of Visibility]
-        A5[5. Logic of Modulation]
-        A6[6. Behavioral Prediction & Control]
-        A7[7. Elimination of Uncertainty]
-        A8[8. Automation of Expertise]
+        A4[4. Visibility Architecture]
+        A5[5. Modulation Logic]
+        A6[6. Behavioral Prediction]
+        A7[7. Eliminating Uncertainty]
+        A8[8. Automated Expertise]
     end
 
-    subgraph L2[Social Modules Layer (Ch.9–20)]
-        B0[09.5 Interlude: Boundary Conditions]
+    subgraph L2[Social Modules (Ch9-20)]
+        B0[09.5 Interlude]
         B1[9. Personalized Education]
         B2[10. Ritualized Elections]
-        B3[11. Constitutional Softwarization]
+        B3[11. Softwarized Constitution]
         B4[12. Total Filtering]
         B5[13. Infinite Entertainment]
         B6[14. Algorithmic Religion]
         B7[15. Closed Networks]
-        B8[16. University as Model-Training Infra]
+        B8[16. University as Infra]
         B9[17. Automated Judgement]
         B10[18. Synthetic Media]
         B11[19. Cognitive Offloading]
         B12[20. Total Transparency]
     end
 
-    subgraph L3[Geopolitical Layer (Ch.21–24)]
-        C1[21. Globalization of the OS]
+    subgraph L3[Geopolitics (Ch21-24)]
+        C1[21. Globalization]
         C2[22. OS as Empire]
-        C3[23. Future of Human Agency]
-        C4[24. OS as Final Governance]
+        C3[23. Human Agency Future]
+        C4[24. Final Governance]
     end
 
     L1 --> L2
     L2 --> L3
-    A6 --> B9
-    A4 --> B12
-    A5 --> B4
-    A7 --> B10
-    A8 --> B8
-    B11 --> C3
-    B12 --> C1
-    C1 --> C2
-    C2 --> C4
 ```
+
 
 ## Abstract
 Algorithmic Governance OS is a theoretical framework describing how sovereignty, legitimacy, and political agency transform when decision-making shifts from human intention to computational optimization. Power is exercised not through deliberate political will but through automated processes that modulate attention, visibility, and exception. This repository contains a 24‑chapter manuscript, an interlude chapter on boundary conditions, and a set of conceptual modules outlining the operational logic of governance in the age of AI.
