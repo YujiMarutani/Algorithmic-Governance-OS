@@ -2,46 +2,48 @@
 
 # Algorithmic Governance OS
 *A Theory of Will-less Sovereignty in the Age of AI*
+
 ```mermaid
 flowchart TD
 
     subgraph L1[Core Logic (Ch1-8)]
         A1[1. Governance as OS]
-        A2[2. Sovereignty to Optimization]
-        A3[3. Automation of Decision]
-        A4[4. Visibility Architecture]
-        A5[5. Modulation Logic]
-        A6[6. Behavioral Prediction]
-        A7[7. Eliminating Uncertainty]
-        A8[8. Automated Expertise]
+        A2[2. Optimization]
+        A3[3. Automated Decision]
+        A4[4. Visibility]
+        A5[5. Modulation]
+        A6[6. Prediction]
+        A7[7. Uncertainty Removal]
+        A8[8. Expertise Automation]
     end
 
     subgraph L2[Social Modules (Ch9-20)]
         B0[09.5 Interlude]
-        B1[9. Personalized Education]
-        B2[10. Ritualized Elections]
-        B3[11. Softwarized Constitution]
-        B4[12. Total Filtering]
-        B5[13. Infinite Entertainment]
-        B6[14. Algorithmic Religion]
-        B7[15. Closed Networks]
-        B8[16. University as Infra]
-        B9[17. Automated Judgement]
+        B1[9. Education]
+        B2[10. Elections]
+        B3[11. Soft Constitution]
+        B4[12. Filtering]
+        B5[13. Entertainment]
+        B6[14. Religion]
+        B7[15. Networks]
+        B8[16. University]
+        B9[17. Judgement]
         B10[18. Synthetic Media]
-        B11[19. Cognitive Offloading]
-        B12[20. Total Transparency]
+        B11[19. Offloading]
+        B12[20. Transparency]
     end
 
     subgraph L3[Geopolitics (Ch21-24)]
         C1[21. Globalization]
-        C2[22. OS as Empire]
-        C3[23. Human Agency Future]
+        C2[22. Empire]
+        C3[23. Agency]
         C4[24. Final Governance]
     end
 
     L1 --> L2
     L2 --> L3
 ```
+
 
 
 ## Abstract
