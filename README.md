@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18788206.svg)](https://doi.org/10.5281/zenodo.18788206)
+
 # Algorithmic Governance OS
 A Theory of Will-less Sovereignty in the Age of AI
 
@@ -84,7 +86,7 @@ Algorithmic-Governance-OS/
 
 
 ## Citation
-A Zenodo DOI will be added once the repository is archived for publication.
+Marutani, Y. (2026). *Algorithmic Governance OS: Base Specification (v1)* (1.0). Zenodo. https://doi.org/10.5281/zenodo.18788206
 
 ## License
 This project is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
