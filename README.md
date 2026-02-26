@@ -1,10 +1,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18788206.svg)](https://doi.org/10.5281/zenodo.18788206)
 
 # Algorithmic Governance OS
-A Theory of Will-less Sovereignty in the Age of AI
+*A Theory of Will-less Sovereignty in the Age of AI*
 
 ## Abstract
-Algorithmic Governance OS is a theoretical framework describing how sovereignty, legitimacy, and political agency transform when decision-making shifts from human intention to computational optimization. Power is exercised not through deliberate political will but through automated processes that modulate attention, visibility, and exception. This repository contains a 24‑chapter manuscript and a set of conceptual modules that outline the operational logic of governance in the age of AI.
+Algorithmic Governance OS is a theoretical framework describing how sovereignty, legitimacy, and political agency transform when decision-making shifts from human intention to computational optimization. Power is exercised not through deliberate political will but through automated processes that modulate attention, visibility, and exception. This repository contains a 24‑chapter manuscript, an interlude chapter on boundary conditions, and a set of conceptual modules outlining the operational logic of governance in the age of AI.
 
 ## Core Concepts
 
@@ -23,8 +23,13 @@ Visibility and relevance are determined by compatibility with optimization logic
 ### Attention Capitalism
 Attention becomes the primary political resource. The modulation of attention flows constitutes a new form of sovereignty.
 
-## Manuscript Structure (24 Chapters)
+## Manuscript Structure (24 Chapters + Interlude)
 
+### Interlude (between Chapters 8 and 9)
+**Boundary Conditions of the Algorithmic Governance OS**  
+A theoretical bridge examining exteriority, automated chosenness, and the limits of will-less sovereignty. This chapter connects the core modules (1–8) with the domain-specific extensions (9–24).
+
+### Chapters
 1. Attention Capitalism and the Hollowing of Democracy  
 2. Algorithmic Editing of the Information Space  
 3. Simulation of Institutions and the UI-ification of Politics  
@@ -33,6 +38,7 @@ Attention becomes the primary political resource. The modulation of attention fl
 6. Integrated Supply Chains and Invisible Dependency  
 7. Autonomous Policing and Continuous Surveillance  
 8. Automation of Expertise and the Post-Bureaucratic State  
+**Interlude — Boundary Conditions of the Algorithmic Governance OS**  
 9. Personalized Education and the Suppression of Critical Thought  
 10. Ritualized Elections and Data-Driven Governance  
 11. Constitutional Softwarization and Parametric Freedom  
@@ -63,6 +69,10 @@ Algorithmic-Governance-OS/
 │   ├── 01_Attention_Capitalism.md
 │   ├── 02_Algorithmic_Editing.md
 │   ├── ...
+│   ├── 08_Automation_of_Expertise.md
+│   ├── Interlude_Boundary_Conditions_of_the_Algorithmic_Governance_OS.md
+│   ├── 09_Personalized_Education_and_the_Suppression_of_Critical_Thought.md
+│   ├── ...
 │   ├── 24_Algorithmic_Chosenness.md
 │   └── Conclusion.md
 │
@@ -83,7 +93,6 @@ Algorithmic-Governance-OS/
 │   └── notes.md
 │
 └── LICENSE
-
 
 ## Citation
 Marutani, Y. (2026). *Algorithmic Governance OS: Base Specification (v1)* (1.0). Zenodo. https://doi.org/10.5281/zenodo.18788206
